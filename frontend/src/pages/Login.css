@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://wallpapers.com/images/featured/best-sports-background-9mo6eiyv8hxj5jln.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial;
+  }
+  
+  .h2 {
+    text-align: center;
+  }
+  
+  .login {
+    width: 382px;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 80px;
+    background-color: rgba(255, 255, 255, 0.8); /* Added opacity for better readability */
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .login input[type="email"],
+  .login input[type="text"],
+  .login input[type="password"] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .login input[type="submit"] {
+    width: 100%;
+    height: 40px;
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  

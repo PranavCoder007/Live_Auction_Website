@@ -1,0 +1,22 @@
+[
+    {
+        "username":"aditya",
+        "password":"",
+        "email":"aditya@gmail.com"
+    },
+    {
+        "username":"ayush",
+        "password":"abcd",
+        "email":"ayush@gmail.com"
+    },
+    {
+        "username":"pranav",
+        "password":"0000",
+        "email":"pranav@gmail.com"
+    },
+    {
+        "username":"athrva",
+        "password":"1234",
+        "email":"atharva@gmail.com"
+    }
+]
