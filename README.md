@@ -1,1 +1,1 @@
-This iS Live Auction Website.
+This is Live Auction Website.
